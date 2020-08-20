@@ -4,6 +4,7 @@ Flask-BabelEx
 Flask-SQLAlchemy
 tablib
 enum34; python_version < '3.0'
+email_validator
 sqlalchemy_utils
 arrow
 colour
